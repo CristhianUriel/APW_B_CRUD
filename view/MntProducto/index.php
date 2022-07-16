@@ -28,7 +28,7 @@
     <meta name="description" content="Premium Quality and Responsive UI for Dashboard.">
     <meta name="author" content="ThemePixels">
 
-    <title>Bracket Responsive Bootstrap 4 Admin Template</title>
+    <title>Cristhian Uriel Castro Rosales -- Crud</title>
 
     <!-- vendor css -->
     <link href="../../public/lib/font-awesome/css/font-awesome.css" rel="stylesheet">
@@ -45,7 +45,8 @@
   <body>
 
     <!-- ########## START: LEFT PANEL ########## -->
-    <div class="br-logo"><a href=""><span>[</span>bracket<span>]</span></a></div>
+    
+    <div class="br-logo"><a href=""><span>[</span>CRUD<span>]</span></a></div>
     <div class="br-sideleft overflow-y-auto">
         <label class="sidebar-label pd-x-15 mg-t-20">Navigation</label>
         <div class="br-sideleft-menu">
@@ -686,6 +687,7 @@
       <div class="pd-x-20 pd-sm-x-30 pd-t-20 pd-sm-t-30">
         <h4 class="tx-gray-800 mg-b-5">Producto</h4>
         <p class="mg-b-0">Desde esta ventana podra dar mantenimiento a productos</p>
+        <div class="container bg-warning "><h5 class="text-center text-dark">Cristhian Uriel Castro Rosales 3° "B" DSM</h5></div>
       </div>
 
       <div class="br-pagebody">
